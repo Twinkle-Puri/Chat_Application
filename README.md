@@ -4,7 +4,6 @@
 ## Description
 Realtime Chat App 
 
-Lot more features to be added soon.
 
 ## Features
 
@@ -30,7 +29,7 @@ MongoDB
 ## Running
   running project:
 ```
-  Step 1: Install all dependencies by : npm install and run node app.js
+  Step 1: Install all dependencies by : npm install and run node app.js or nodemon app.js
   Step 2: Sign up @ http://localhost:3000/user/signup
   Step 3: Now you're good to go.
   Step 4: Now Login  @http://localhost:3000/user/login
