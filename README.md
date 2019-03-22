@@ -1,8 +1,4 @@
-# Socket.Io Real-time Chat App | A MEAN stack based Real Time chat application
-
-
-## Description
-Realtime Chat App 
+# Real Time chat application
 
 
 ## Features
